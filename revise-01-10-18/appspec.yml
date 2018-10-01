@@ -1,0 +1,5 @@
+version: 0.0
+os: linux
+files:
+  - source: /revise-01-10-18/new.html
+    destination: /var/www/html/
