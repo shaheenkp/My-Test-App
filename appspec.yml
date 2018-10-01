@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /new.html
+  - source: /new-1.html
     destination: /var/www/html/
